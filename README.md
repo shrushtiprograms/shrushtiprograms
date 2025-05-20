@@ -9,9 +9,9 @@
 - 🎓 Pursuing Master of Science in Information Technology  
 - 🧑‍🎓 Completed my Integrated Bachelor's in IT  
 - 💻 Passionate about building real-world applications  
-- 🧠 Currently learning *React, **Node.js, and **MongoDB*  
-- 💪 Comfortable with *Java, **C++, **HTML/CSS/JS, **JSP, and **jQuery*  
-- 🧰 Built academic projects using *NetBeans IDE* with Java & JSP  
+- 🧠 Currently learning **React**, **Node.js**, and **MongoDB**  
+- 💪 Comfortable with **Java**, **C++**, **HTML/CSS/JS**, **JSP**, and **jQuery**  
+- 🧰 Built academic projects using **NetBeans IDE** with Java & JSP  
 - 🚀 I enjoy exploring full-stack development and sharpening my problem-solving skills
 
 ---
