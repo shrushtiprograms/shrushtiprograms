@@ -33,13 +33,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Shrushti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrushtiprograms&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrushtiprograms&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 📧 Email: shrushtipanchal276@gmail.com
