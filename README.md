@@ -2,7 +2,7 @@
 
 **Python Developer | Full Stack | Data Science Enthusiast**
 
-📍 Ahmedabad, India | 📞 +91 63535 46541 | ✉️ shrushtipanchal276@gmail.com
+📍 Ahmedabad, India
 
 [![GitHub](https://img.shields.io/badge/GitHub-shrushtiprograms-2DD4BF?style=flat-square&logo=github)](https://github.com/shrushtiprograms)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shrushti--panchal-2DD4BF?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shrushti-panchal-b29198340)
