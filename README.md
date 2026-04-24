@@ -65,8 +65,6 @@ Python developer with hands-on experience building full-stack web applications a
 
 ## 📊 GitHub Stats
 
-![Shrushti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrushtiprograms&show_icons=true&theme=dark&bg_color=0A0C10&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrushtiprograms&layout=compact&theme=dark&bg_color=0A0C10&title_color=2DD4BF&text_color=94A3B8)
 
 ---
