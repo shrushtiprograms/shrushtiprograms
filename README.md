@@ -1,42 +1,82 @@
-# 👋 Hello, I'm Shrushti Panchal
+# 👩‍💻 Shrushti Panchal
 
-🎓 M.Sc. IT student | 💻 Aspiring Full-Stack Developer | 🌱 Lifelong Learner
+**Python Developer | Full Stack | Data Science Enthusiast**
 
----
+📍 Ahmedabad, India | 📞 +91 63535 46541 | ✉️ shrushtipanchal276@gmail.com
 
-## 💡 About Me
-
-- 🎓 Pursuing Master of Science in Information Technology  
-- 🧑‍🎓 Completed my Integrated Bachelor's in IT  
-- 💻 Passionate about building real-world applications  
-- 🧠 Currently learning **React**, **Node.js**, and **MongoDB**  
-- 💪 Comfortable with **Java**, **C++**, **HTML/CSS/JS**, **JSP**, and **jQuery**  
-- 🧰 Built academic projects using **NetBeans IDE** with Java & JSP  
-- 🚀 I enjoy exploring full-stack development and sharpening my problem-solving skills
+[![GitHub](https://img.shields.io/badge/GitHub-shrushtiprograms-2DD4BF?style=flat-square&logo=github)](https://github.com/shrushtiprograms)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shrushti--panchal-2DD4BF?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shrushti-panchal-b29198340)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shrushtiprograms.github.io/portfolio-2DD4BF?style=flat-square&logo=githubpages)](https://shrushtiprograms.github.io/portfolio)
 
 ---
 
-## 🛠 Technologies & Tools
+## 📌 About Me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Python developer with hands-on experience building full-stack web applications and data-driven systems using **Django** and **FastAPI**. Delivered **4 end-to-end projects** including a **certified client deployment** for a real Ahmedabad garment business.
+
+- 🎓 **Education**: Integrated M.Sc. (CA & IT) | CGPA: 3.43/5.0
+- 🏆 **Achievement**: Semester 7 SGPA: 3.87
+- 💼 **Seeking**: IT Trainee or Junior Developer roles
+- ⏰ **Availability**: Immediate joining
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Technical Skills
 
-📧 Email: shrushtipanchal276@gmail.com
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, JavaScript, C++, Java |
+| **Frameworks** | Django, FastAPI, Streamlit |
+| **Databases** | MySQL, SQLite |
+| **Data/ML** | scikit-learn, NLTK, Pandas |
+| **Web Technologies** | HTML5, CSS3, Bootstrap |
+| **Tools** | Git, GitHub, VS Code, JWT |
+| **APIs** | REST APIs, YouTube, Spotify, OpenAI |
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📁 Featured Projects
+
+### 🛍️ Bhavi India Fashion — *Client Certified*
+> Full-stack e-commerce platform for a real Ahmedabad garment business
+- **Tech**: Python, Django, MySQL, Bootstrap, SMTP
+- Features: product catalog, shopping cart, bulk orders, tailor registration
+- Admin dashboard with inventory management & CSV reports
+
+### 🎵 MoodTunes — *85% Accuracy*
+> Music recommendation app based on user's mood from text input
+- **Tech**: FastAPI, scikit-learn, NLTK, YouTube/Spotify API
+- Built matching algorithm tested on 2,000+ tracks
+- Integrated music previews and direct search
+
+### 🚚 FleetFlow — *Role-based Platform*
+> Fleet & logistics management system with analytics
+- **Tech**: FastAPI, MySQL, JWT, Bootstrap
+- 4 user roles with business rule enforcement
+- Real-time dashboard: ROI, fuel efficiency, driver scores, CSV/PDF export
+
+### 🎙️ InterviewCoach — *Voice-based Tool*
+> AI-powered interview preparation platform
+- **Tech**: Django, gTTS, SpeechRecognition, APIs
+- TTS questions, speech-to-text answers, automated feedback
+- Dynamic questions from real job postings, 5 progressive rounds
+
+---
+
+## 📊 GitHub Stats
+
+![Shrushti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrushtiprograms&show_icons=true&theme=dark&bg_color=0A0C10&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrushtiprograms&layout=compact&theme=dark&bg_color=0A0C10&title_color=2DD4BF&text_color=94A3B8)
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 **LinkedIn**: [linkedin.com/in/shrushti-panchal-b29198340](https://www.linkedin.com/in/shrushtipanchal0227)
+- 🐙 **GitHub**: [github.com/shrushtiprograms](https://github.com/shrushtiprograms)
+- 🌐 **Portfolio**: [shrushtiprograms.github.io/portfolio](https://shrushtiprograms.github.io/portfolio)
+
+---
+
+> *"Code is not just logic — it's a craft of solving real problems."*
