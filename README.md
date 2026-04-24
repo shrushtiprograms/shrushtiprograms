@@ -1,6 +1,6 @@
 # 👩‍💻 Shrushti Panchal
 
-**Python Developer | Full Stack | Data Science Enthusiast**
+**Python Developer | Full Stack **
 
 📍 Ahmedabad, India
 
